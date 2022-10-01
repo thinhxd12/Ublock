@@ -1,0 +1,37 @@
+[Adblock Plus 2.0]
+! Title: ThinhAdblock
+
+! 2021-11-05 https://zingnews.vn
+zingnews.vn###site-header
+
+! 2021-11-10 https://live.rakhoi.tv
+
+!##.adHTML1,domain = /rakhoi\*\.live/
+##.adHTML1
+##.adHTML3
+##.modal-ads
+##.close-banner
+##.footer-banner
+##.jw-logo
+##.button-in-player-box.button-bottom-center-append-custom
+||179346638.global.cdnfastest.com
+##div.adHTML2
+
+! 2021-11-18 https://voz.vn
+voz.vn##.vm-placement
+
+nimo.tv##.mini-panel-swiper
+nimo.tv##.UserEnterRoomMessageItem
+nimo.tv##.nimo-room__chatroom__message-item.pick-me-msg
+nimo.tv##.nimo-iframe__wrap.movePannel
+nimo.tv##div.n-as-mrgv-xs.n-as-mrgh.n-fx-sc.c2
+nimo.tv##.nimo-gift-banner
+nimo.tv##.n-as-mrg-xs.c2
+nimo.tv##.chatroomShareComp-container
+nimo.tv##.n-as-w100.chat-room__enter_banner.n-as-abs
+nimo.tv##.nimo-room__chatroom__message-item.n-as-mrgb.n-as-mrgh.c2
+nimo.tv##.n-as-mrgv-xs.n-as-mrgh.c3
+
+! 2022-07-03 https://9gag.com
+9gag.com#?#article:has(header:has-text(Promoted))
+
