@@ -35,4 +35,5 @@ nimo.tv##.n-as-mrgv-xs.n-as-mrgh.c3
 ! 2022-07-03 https://9gag.com
 9gag.com#?#article:has(header:has-text(Promoted))
 
-voz.vn##div.message--post.message:nth-of-type(1)
+voz.vn##.div-pw-1660879860
+
