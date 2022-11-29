@@ -31,6 +31,7 @@ nimo.tv##.chatroomShareComp-container
 nimo.tv##.n-as-w100.chat-room__enter_banner.n-as-abs
 nimo.tv##.nimo-room__chatroom__message-item.n-as-mrgb.n-as-mrgh.c2
 nimo.tv##.n-as-mrgv-xs.n-as-mrgh.c3
+nimo.tv##.nimo-room__gift-item
 
 ! 2022-07-03 https://9gag.com
 9gag.com#?#article:has(header:has-text(Promoted))
