@@ -14,6 +14,9 @@ zingnews.vn###site-header
 ##.footer-banner
 ##.jw-logo
 ##.button-in-player-box.button-bottom-center-append-custom
+##.banner-bottom-append-custom
+
+
 ||179346638.global.cdnfastest.com
 ##div.adHTML2
 
@@ -37,4 +40,13 @@ nimo.tv##.nimo-room__gift-item
 9gag.com#?#article:has(header:has-text(Promoted))
 
 voz.vn##.div-pw-1660879860
+
+! 2022-12-28 https://www.nimo.tv
+www.nimo.tv##.daily-lottery-entry--live-room.visible.daily-lottery-entry
+
+!||jav.photos
+|https://jav.photos/pictures/
+
+! 2023-02-13 https://xamvn.gay
+||xamvn.gay/js/themehouse/holidays/*$script,1p
 
