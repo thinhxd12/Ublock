@@ -15,6 +15,7 @@ zingnews.vn###site-header
 ##.jw-logo
 ##.button-in-player-box.button-bottom-center-append-custom
 ##.banner-bottom-append-custom
+##.button-bottom-center-append-custom
 
 
 ||179346638.global.cdnfastest.com
