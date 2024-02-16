@@ -1,10 +1,4 @@
-[Adblock Plus 2.0]
 ! Title: ThinhAdblock
-
-! 2021-11-05 https://zingnews.vn
-zingnews.vn###site-header
-
-! 2021-11-10 https://live.rakhoi.tv
 
 !##.adHTML1,domain = /rakhoi\*\.live/
 ##.adHTML1
@@ -16,13 +10,7 @@ zingnews.vn###site-header
 ##.button-in-player-box.button-bottom-center-append-custom
 ##.banner-bottom-append-custom
 ##.button-bottom-center-append-custom
-
-
-||179346638.global.cdnfastest.com
 ##div.adHTML2
-
-! 2021-11-18 https://voz.vn
-voz.vn##.vm-placement
 
 nimo.tv##.mini-panel-swiper
 nimo.tv##.UserEnterRoomMessageItem
@@ -36,18 +24,10 @@ nimo.tv##.n-as-w100.chat-room__enter_banner.n-as-abs
 nimo.tv##.nimo-room__chatroom__message-item.n-as-mrgb.n-as-mrgh.c2
 nimo.tv##.n-as-mrgv-xs.n-as-mrgh.c3
 nimo.tv##.nimo-room__gift-item
+nimo.tv##.daily-lottery-entry--live-room.visible.daily-lottery-entry
 
-! 2022-07-03 https://9gag.com
-9gag.com#?#article:has(header:has-text(Promoted))
-
-voz.vn##.div-pw-1660879860
-
-! 2022-12-28 https://www.nimo.tv
-www.nimo.tv##.daily-lottery-entry--live-room.visible.daily-lottery-entry
-
-!||jav.photos
 |https://jav.photos/pictures/
 
 ! 2023-02-13 https://xamvn.gay
-||xamvn.gay/js/themehouse/holidays/*$script,1p
-
+||xamvn.*/js/themehouse/holidays/*$script,1p
+||xamvn.*/js/xf/preamble.min.js
