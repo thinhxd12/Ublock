@@ -25,9 +25,7 @@ nimo.tv##.nimo-room__chatroom__message-item.n-as-mrgb.n-as-mrgh.c2
 nimo.tv##.n-as-mrgv-xs.n-as-mrgh.c3
 nimo.tv##.nimo-room__gift-item
 nimo.tv##.daily-lottery-entry--live-room.visible.daily-lottery-entry
+nimo.tv##.n-as-rel.nimo-room-ads
 
-|https://jav.photos/pictures/
-
-! 2023-02-13 https://xamvn.gay
 ||xamvn.*/js/themehouse/holidays/*$script,1p
 ||xamvn.*/js/xf/preamble.min.js
